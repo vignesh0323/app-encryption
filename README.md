@@ -18,3 +18,8 @@ This project is a Python-based advanced encryption application that securely enc
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d30a1e5c-397f-41d7-ad8c-56cba3d69f41" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/775c0cfb-0bc0-4186-aa19-be93d053fd05" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a44fa370-4d59-4e02-b0d9-12fe1e7c9712" />
